@@ -1,0 +1,5 @@
+# macOS
+.DS_Store
+
+# Obsidian workspace (personal, machine-specific)
+.obsidian/
