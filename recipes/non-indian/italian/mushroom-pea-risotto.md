@@ -18,7 +18,7 @@ ingredients:
   - chicken stock
   - parmesan
   - parsley
-  - onion
+  - banana shallots
   - garlic
 meal_type: [weekday, guest-worthy]
 dietary: []
@@ -45,7 +45,7 @@ The peas add sweetness and colour, but the dish should still taste primarily of 
 - Hot water - 1.2-1.4 litres
 - Parmesan - 70-90 g, finely grated
 - Parsley - small handful, finely chopped
-- Onion - 1 medium, finely chopped
+- Banana shallots - 2 large, finely chopped
 - Garlic - 3 cloves, finely chopped
 - Butter - 50 g, divided
 - Olive oil - 1 tbsp
@@ -56,6 +56,7 @@ The peas add sweetness and colour, but the dish should still taste primarily of 
 ### Optional
 - Thyme - 1 tsp fresh leaves or 1/2 tsp dried
 - Lemon juice - small squeeze, only if needed
+- Onion - 1 medium, finely chopped, if banana shallots are unavailable
 
 ---
 
@@ -82,7 +83,7 @@ The peas add sweetness and colour, but the dish should still taste primarily of 
 ### 3. Start base
 - Lower heat to medium.
 - Add 15 g butter.
-- Add onion and cook 5-7 minutes until soft, not browned.
+- Add banana shallots and cook 4-5 minutes until soft and translucent, not browned.
 - Add garlic and thyme if using.
 - Cook 30 seconds.
 
@@ -134,6 +135,7 @@ The peas add sweetness and colour, but the dish should still taste primarily of 
 - Babycorn is not recommended in this risotto; it pushes the dish toward stir-fry texture and flavour.
 - Final texture should be loose and flowing, not stiff or mound-like.
 - Brown the mushrooms properly before starting the rice; this is the main flavour base.
+- Banana shallots suit the dish better than onion because they are softer and less assertive.
 - Salt only at the end if needed.
 
 ---
